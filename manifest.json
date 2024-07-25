@@ -1,6 +1,6 @@
 {
-    "name": "hangles_closet_admin",
-    "short_name": "hangles_closet_admin",
+    "name": "hanglecloset_web",
+    "short_name": "hanglecloset_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
